@@ -13,6 +13,9 @@
         body {
             background-color: rgba(26,32,44);
         }
+        html {
+            touch-action: manipulation;
+        }
         .circle {
             border-radius: 50%;
             background-color:rgb(35, 92, 71);
